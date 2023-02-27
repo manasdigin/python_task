@@ -1,0 +1,6 @@
+number=float(input("what is your first number?"))
+number2=float(input("what is ur second number?"))
+number3=float(input("what is your third number?"))
+total=float(number)+float(number2)+float(number3)
+ans=float(total)
+print("{}+{}+{}/2 is....{}".format(number,number2,number3,ans))
